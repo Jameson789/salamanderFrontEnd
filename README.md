@@ -4,6 +4,9 @@ This plan outlines the structured steps for building the **Salamander Tracker** 
 
 ---
 
+### Component Strucutre
+-https://lucid.app/lucidchart/4743f22d-9630-4fd7-88ac-e31fabf7fb97/edit?viewport_loc=-677%2C-29%2C2992%2C1466%2C0_0&invitationId=inv_d51f7d63-5ba9-4026-a7e8-081cc175dbb1
+
 ### 1. 🏗️ Setup
 
 - Initialize the React app (or Next.js if preferred)
