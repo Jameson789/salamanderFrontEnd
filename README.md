@@ -11,9 +11,9 @@ This plan outlines the structured steps for building the **Salamander Tracker** 
 
 - Initialize the React app (or Next.js if preferred)
 - Install necessary dependencies:
-  - `react-router-dom`
-  - `@mui/material`
-  - Other libraries as needed (`axios`, `cypress`, etc.)
+  - cypress
+  - Material UI
+  - NextJS
 - Organize project structure:
   - Create a `components/` folder
   - Remove default Vite boilerplate and styles
@@ -22,7 +22,7 @@ This plan outlines the structured steps for building the **Salamander Tracker** 
 
 ### 2. 🧭 Routing & Layout
 
-- Set up React Router with the following routes:
+- Set up NextJS with the following routes:
   - `/videos` – Video list page
   - `/preview/:filename` – Video preview and settings page
 - Build a basic layout (optional header or nav)
@@ -31,7 +31,7 @@ This plan outlines the structured steps for building the **Salamander Tracker** 
 
 ### 3. 📼 Video Chooser Page
 
-- Display a list of mock videos from `mock/videos.js`
+- Display a list of mock videos from `mock/videos.js` Or from API 
 - Enable navigation to the preview page on click
 
 ---
